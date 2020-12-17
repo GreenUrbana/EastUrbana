@@ -1,6 +1,8 @@
-# Resources
+# Resources for residents concerned about industrial emissions that affect air quality
 
-## **Illinois EPA Complaint Form**
+
+
+## Illinois EPA Complaint Form
 
 Contact the Illinois Environmental Protection Agency (IEPA) by filling out the complaint form found at form found at this website. Include specific details about your observations.
 
@@ -8,7 +10,7 @@ Contact the Illinois Environmental Protection Agency (IEPA) by filling out the c
 
 
 
-## **Contact Emails:  Mayor of Urbana, City Council, and Illinois Emergency Management Agency**
+## Contact Emails:  Mayor of Urbana, City Council, and Illinois Emergency Management Agency
 
 Diane Marlin - [dwmarlin@urbanaillinois.us](mailto:dwmarlin@urbanaillinois.us)
 
@@ -53,12 +55,12 @@ Sincerely,
 
 
 
-## **Stay in Touch:**
+## Stay in Touch:
 
 If you would like to stay in touch for updates and findings about emissions stemming from the Emulsicoat Plant please fill out this google form - [https://forms.gle/hkSGyFByYRsT3Vmw9](https://forms.gle/hkSGyFByYRsT3Vmw9)
 
 
 
-## **Petition:**
+## Petition:
 
 Residents in Urbana may circulate a petition soon. Check back for updates and links to the petition.
