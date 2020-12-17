@@ -4,7 +4,7 @@
 
 Contact the Illinois Environmental Protection Agency (IEPA) by filling out the complaint form found at form found at this website. Include specific details about your observations.
 
-https://www2.illinois.gov/epa/pollution-complaint/Pages/Submit-A-Complaint.aspx
+[https://www2.illinois.gov/epa/pollution-complaint/Pages/Submit-A-Complaint.aspx](https://www2.illinois.gov/epa/pollution-complaint/Pages/Submit-A-Complaint.aspx)
 
 
 
@@ -60,7 +60,7 @@ Sincerely,
 
 **Stay in Touch:** If you would like to stay in touch for
 updates and findings about emissions stemming from the Emulsicoat Plant please
-fill out this google form - https://forms.gle/hkSGyFByYRsT3Vmw9
+fill out this google form - [https://forms.gle/hkSGyFByYRsT3Vmw9](https://forms.gle/hkSGyFByYRsT3Vmw9)
 
 
 
