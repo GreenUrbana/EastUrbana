@@ -2,7 +2,7 @@
 
 ## Emulsicoat Permitting and other Documents
 
-[greenurbana.github.io/EastUrbana/documents](greenurbana.github.io/EastUrbana/documents)
+[greenurbana.github.io/EastUrbana/documents](/documents)
 
 ## Illinois EPA Complaint Form
 
