@@ -1,14 +1,14 @@
 # Resources for residents concerned about industrial emissions that affect air quality
 
+## Emulsicoat Permitting and other Documents
 
+[greenurbana.github.io/EastUrbana/documents](greenurbana.github.io/EastUrbana/documents)
 
 ## Illinois EPA Complaint Form
 
 Contact the Illinois Environmental Protection Agency (IEPA) by filling out the complaint form found at form found at this website. Include specific details about your observations.
 
 [https://www2.illinois.gov/epa/pollution-complaint/Pages/Submit-A-Complaint.aspx](https://www2.illinois.gov/epa/pollution-complaint/Pages/Submit-A-Complaint.aspx)
-
-
 
 ## Contact Emails:  Mayor of Urbana, City Council, and Illinois Emergency Management Agency
 
@@ -19,8 +19,6 @@ City Council Members - [citycouncil@urbanaillinois.us](mailto:citycouncil@urbana
 Ward 5 East Urbana Alderman, Dennis Roberts [dproberts@urbanaillinois.us](mailto:dproberts@urbanaillinois.us)
 
 Champaign County Emergency Management Agency [ema@co.champaign.il.us](mailto:ema@co.champaign.il.us)
-
-
 
 ### **Sample letter**
 
@@ -53,13 +51,9 @@ Sincerely,
 *[Phone]*
 *[Email address]*
 
-
-
 ## Stay in Touch:
 
 If you would like to stay in touch for updates and findings about emissions stemming from the Emulsicoat Plant please fill out this google form - [https://forms.gle/hkSGyFByYRsT3Vmw9](https://forms.gle/hkSGyFByYRsT3Vmw9)
-
-
 
 ## Petition:
 
