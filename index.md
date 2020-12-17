@@ -6,7 +6,7 @@
 
 ## Illinois EPA Complaint Form
 
-Contact the Illinois Environmental Protection Agency (IEPA) by filling out the complaint form found at form found at this website. Include specific details about your observations.
+Contact the Illinois Environmental Protection Agency (IEPA) by filling out the complaint form found at this website. Include specific details about your observations.
 
 [https://www2.illinois.gov/epa/pollution-complaint/Pages/Submit-A-Complaint.aspx](https://www2.illinois.gov/epa/pollution-complaint/Pages/Submit-A-Complaint.aspx)
 
@@ -39,7 +39,7 @@ In particular I am concerned about the air quality surrounding the industrial si
 
 I urge you to take steps to ensure the health and safety of all of Urbana’s residents and to leverage the power of your office to ensure that we are living in a healthy and safe environment.
 
-At minimum, the City of Urbana should work with the Illinois EPA to obtain and make public the Material Data Safety Sheets regarding any chemical emissions and chemicals stored at the Emulsicoat Plant. These should include any chemical or material compounds, or mixtures, shipped to and stored, or processed, on the industrial site premises. The City of Urbana should also ensure that members of the public are able to understand and interpret these documents.
+At minimum, the City of Urbana should work with the Illinois EPA to review and obtain the Safety Data Sheets regarding any chemicals stored at the Emulsicoat Plant. These should include any chemical or material compounds shipped to and stored, or processed, on the industrial site premises. The City of Urbana should also ensure that members of the public are able to understand and interpret these documents.
 
 The city should insist on a surprise set of inspections to the plant by the Illinois and US EPA including inspecting storage tanks on the premises for leaks, rust, and holes that can turn into a hazardous waste spill.
 
@@ -48,7 +48,9 @@ Thank you for your attention to this matter and for your care and concern for Ur
 Sincerely,
 
 *[Your name]*
+
 *[Phone]*
+
 *[Email address]*
 
 ## Stay in Touch:
