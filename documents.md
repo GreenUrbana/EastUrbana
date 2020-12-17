@@ -4,4 +4,6 @@
 
 [2012 Illinois Environmental Protection Agency confirmation letter](/files/emulsicoat-ross-status-change-confirmation.pdf) to Emulsicoat regarding a change to their registration status under the Registration of Smaller Sources (ROSS) Program. 
 
+Link to EPA Envirofacts about the Emulsicoat Inc. https://enviro.epa.gov/enviro/multisys2_v2.get_list?facility_uin=110001816394
+
 
