@@ -1,6 +1,6 @@
 # Resources
 
-**Illinois EPA Complaint Form**
+## **Illinois EPA Complaint Form**
 
 Contact the Illinois Environmental Protection Agency (IEPA) by filling out the complaint form found at form found at this website. Include specific details about your observations.
 
@@ -8,7 +8,7 @@ Contact the Illinois Environmental Protection Agency (IEPA) by filling out the c
 
 
 
-**Contact Emails:  Mayor of Urbana, City Council, and Illinois Emergency Management Agency**
+## **Contact Emails:  Mayor of Urbana, City Council, and Illinois Emergency Management Agency**
 
 Diane Marlin - [dwmarlin@urbanaillinois.us](mailto:dwmarlin@urbanaillinois.us)
 
@@ -20,23 +20,20 @@ Champaign County Emergency Management Agency [ema@co.champaign.il.us](mailto:ema
 
 
 
-**Sample letter**
+### **Sample letter**
 
-[Date]
+*[Date]*
 
 Mayor Diane Marlin
-
 Urbana City Building
-
 400 South Vine Street
-
-61801 Urbana, IL
+Urbana, IL 61801
 
 Dear Mayor,
 
 I am contacting you out of concern about the industrial
 emissions from the Emulsicoat Plant at 705 East University Avenue in Urbana. I
-am a resident in the East Urbana neighborhood and live at [address]. On numerous occasions I have noticed a certain odor throughout the neighborhood that many have deemed as stemming from the Emulsicoat Plant. Recently, on [date] at [time] I  observed [your observations] at [location]. 
+am a resident in the East Urbana neighborhood and live at [address]. On numerous occasions I have noticed a certain odor throughout the neighborhood that many have deemed as stemming from the Emulsicoat Plant. Recently, on *[date]* at *[time]* I  observed *[your observations]* at *[location]*. 
 
 In particular I am concerned about the air quality surrounding the industrial site and the potential health concerns of its workers, as well as myself, my family, and my neighbors who live in the Historic East Urbana Neighborhood.
 
@@ -50,18 +47,18 @@ Thank you for your attention to this matter and for your care and concern for Ur
 
 Sincerely,
 
-[Your name]
-
-[Phone]
-
-[Email address]
+*[Your name]*
+*[Phone]*
+*[Email address]*
 
 
 
-**Stay in Touch:** If you would like to stay in touch for
-updates and findings about emissions stemming from the Emulsicoat Plant please
-fill out this google form - [https://forms.gle/hkSGyFByYRsT3Vmw9](https://forms.gle/hkSGyFByYRsT3Vmw9)
+## **Stay in Touch:**
+
+If you would like to stay in touch for updates and findings about emissions stemming from the Emulsicoat Plant please fill out this google form - [https://forms.gle/hkSGyFByYRsT3Vmw9](https://forms.gle/hkSGyFByYRsT3Vmw9)
 
 
 
-**Petition:**  Residents in Urbana may circulate a petition soon. Check back for updates and links to the petition.
+## **Petition:**
+
+Residents in Urbana may circulate a petition soon. Check back for updates and links to the petition.
